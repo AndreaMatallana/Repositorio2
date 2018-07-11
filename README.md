@@ -1,8 +1,8 @@
 # Repositorio2
-#Hola Andre
+# Hola Andre
 - esto
 - es 
 - una 
 - lista
 
-*termineeeee
+* termineeeee
